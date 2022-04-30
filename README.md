@@ -21,7 +21,7 @@ Gifted to me by my best friend Aaron Cleveland ([@notyourswiftdev](https://githu
 I bought this as a gift to myself after being hired on at [Nautilus](https://github.com/nlsinc)
 
 ### Upgrades:
-Hotend: S1 pro (awaiting delivery)
+Hotend/extruder: S1 pro (awaiting delivery)
 
 ### Known issues
 - There's an issue with the extruder/hotend being misaligned/skewed which sometimes causes it to crash into the bed because the right side comes into contact 
