@@ -9,9 +9,9 @@ Both printers are running Klipper firmware attached to a Raspberry pi. I use Flu
 Gifted to me by my best friend Aaron Cleveland ([@notyourswiftdev](https://github.com/notyourswiftdev)). He gave it to me with a BL Touch
 
 ### Upgrades:
-Bed: Borosilicate glass bed
-Hotend/Extruder: Microswiss direct drive
-Z Axis: dual, no timing belt
+- Bed: Borosilicate glass bed
+- Hotend/Extruder: Microswiss direct drive
+- Z Axis: dual, no timing belt
 
 ### Known issues:
 - Tramming/leveling is difficult due to the X-axis being misaligned. 
